@@ -12,7 +12,7 @@ If the element does not match, then move to the next element.
 
 If there is no match or the search element is not present in the given array, return -1.
 
-Algorithm
+# Algorithm
 Linear_Search(a, n, val) // 'a' is the given array, 'n' is the size of given array, 'val' is the value to search
 
 Step 1: set pos = -1
